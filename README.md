@@ -1,4 +1,3 @@
-# customer-behavior-analysis-project
 # Retail Customer Behavior and Shopping Trends – Data Analytics Project
 
 ## 1. Overview
