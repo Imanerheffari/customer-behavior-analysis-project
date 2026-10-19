@@ -50,13 +50,6 @@ Loaded the prepared data into MySQL to perform structured queries and extract bu
 
 Developed an interactive Power BI dashboard to present the main findings in an accessible and business-oriented format.
 
-## 5. Dashboard
-
-The Power BI dashboard focuses on presenting key retail analytics metrics and customer shopping patterns.
-
-**Dashboard Preview**
-
-
 ## 9. Skills Demonstrated
 
 This project demonstrates practical skills in:
