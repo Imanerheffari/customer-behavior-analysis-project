@@ -67,7 +67,7 @@ This project demonstrates practical skills in:
 
 Master's Graduate in Big Data and Artificial Intelligence
 
-Interested in Data Science, Data Analytics, and Artificial Intelligence.
+Interested in Data Science, Data Engineering, Data Analytics, and Artificial Intelligence.
 
 ---
 
